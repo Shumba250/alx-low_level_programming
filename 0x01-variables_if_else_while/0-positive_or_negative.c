@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
+/* main -Determies if n is positive, negative or zero */
 
-/* betty style doc for function main goes there */
+/* Return: Always 0 (sucess) */
 int main(void)
 {
 	int n;
